@@ -1,4 +1,4 @@
-### Data Preprocessing
+# Data Preprocessing
 In this folder, we demonstrated how to process raw data downloaded from the Shamsara paper (https://data.mendeley.com/datasets/fdb8f5hjyd/1) in the following steps.
 1. Upload data and creat a table in pandas dataframe that have genetic variants as columns, patient samples as rows, and one additional column labeling the stage of prostate cancer.
 2. Process data
@@ -11,7 +11,7 @@ In this folder, we demonstrated how to process raw data downloaded from the Sham
 
 After running codes in this folder, you will gain a csv table of processed data read for all other machine learning analysis.
 
-#### Organization
+## Organization
 The Creat_mRNATable.ipynb file described Step 1.
 
 The ProcessData.ipynb file described Q2.
