@@ -6,8 +6,12 @@ In this folder, we demonstrated unsupervised machine learning methods such as K-
     b. Using the set fo features selected by K-mean clustering, does hierarchical clustering seperates the two groups successfully?
     c. Using the set fo features selected by K-mean clustering, does PCA seperates the two groups successfully?
 
+#### Organization
 The Contextualize_Kmeans.ipynb file described the necessity of reducing number of features.
+
 The KMeans.ipynb file described Q1 and Q2.a.
+
 The Hierarchical.ipynb file described Q2.b.
+
 The PCA.ipynb file described Q2.c.
 
