@@ -25,5 +25,6 @@ In this folder, we demonstrated unsupervised machine learning methods such as K-
 
 2. Predicted Classes.png from KMenas.ipynb that use two features of highest ANOVA F-value to visualize the predicted classification of the whole dataset with the best K Mean clustering.
 
+3. best_table.csv from KMenas.ipynb that save the best model
 
-3. clustermap.png from Hierarchical.ipynb that yielded a heat map with columns representing best features and row represeting patients clustered by expression level.
+4. clustermap.png from Hierarchical.ipynb that yielded a heat map with columns representing best features and row represeting patients clustered by expression level.
